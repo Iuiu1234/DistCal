@@ -1,0 +1,6 @@
+[run]
+branch = True
+omit = ds-distcal/tests/*
+
+[report]
+fail_under=90
